@@ -1,10 +1,10 @@
-# Project: Librawebs – Hosting Automation
+# Project: OSINT Reports – Hosting Automation
 
 **Role:** Founder & Full-Stack Developer  
 **Tools Used:** WHMCS, cPanel/WHM, PHP, MySQL, Bootstrap
 
-### Key Features:
-- Integrated WHMCS with cPanel for seamless client account automation.
-- Created custom billing modules, email templates, and domain management logic.
-- Automated invoice generation and hosting package provisioning via WHMCS API.
-- Secured WHM/cPanel environment with custom cron jobs and configuration tuning.
+**“ClientSyncPro”: Emphasizes client management and professional automation.
+“cPanel HostFlow”: Highlights the smooth flow of hosting and billing processes.
+“WHMCS AutoCore”: Focuses on the core automation features for WHMCS and cPanel.
+“StreamlineHost”: Reflects streamlined operations for hosting and client services.
+
